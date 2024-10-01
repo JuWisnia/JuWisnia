@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+My name is Justyna, and I'm beginner Data Engineer and aspiring Data Scientist with a strong background in data analysis. I love working with data, especially processing it and solving problems to provide seamless transitions and integration across various systems. My goal is to leverage my skills to create scalable and robust data solutions.
+
+**🔭 I’m currently working on
+  - Python tutorials & projects that use libraries such as: Pandas, NumPy, Matplotlib, Beautiful Soup, scikit-learn.
+  - Data transformation and analysis project using SQL.
+
+**🌱 I’m currently learning
+  - Advanced data engineering concepts and best practices.
+  - ML algorithms and their applications.
+  - Statistics and probability.
+
+**📫 How to reach me:
+  - LinkedIn: https://www.linkedin.com/in/jwis/
+
 <!--
 **JuWisnia/JuWisnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
