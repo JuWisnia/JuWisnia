@@ -11,7 +11,7 @@ I love working with data, especially processing it and solving problems to provi
 **🌱 I’m currently learning**
   - Advanced data engineering concepts and best practices. // ML algorithms and their applications. // Statistics and probability.
 
-**📫 Reach me:** [LinkedIn:](https://www.linkedin.com/in/jwis/)
+**📫 Reach me:** [LinkedIn](https://www.linkedin.com/in/jwis/)
 
 <!--
 **JuWisnia/JuWisnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
